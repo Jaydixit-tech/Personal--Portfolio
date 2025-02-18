@@ -14,10 +14,4 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 - React.js (Optional)  
 - Node.js & Express (For backend contact form)  
 
-## 🔗 Live Demo  
-[Portfolio Website](https://your-portfolio-link.com)  
 
-## 📌 Installation  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
